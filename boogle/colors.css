@@ -1,0 +1,123 @@
+
+cuerpo {
+    Familia tipográfica : " Helvetica Neue " , Helvetica , Arial , sans-serif ;
+}
+
+.container {
+    ancho : 500 px ;
+    margen izquierdo : auto ;
+    margen derecho : auto ;
+}
+
+.logo-block {
+    ancho : 100 px ;
+    margen izquierdo : auto ;
+    margen derecho : auto ;
+}
+
+.title-block {
+    ancho : 450 px ;
+    margen izquierdo : auto ;
+    margen derecho : auto ;
+}
+
+.login-title {
+    color : # 555 ;
+    tamaño de letra : 36 px ;
+    peso de la fuente : 400 ;
+    pantalla : bloque ;
+}
+
+bloque de firma {
+    ancho : 350 px ;
+    margen izquierdo : auto ;
+    margen derecho : auto ;
+}
+
+.login-text {
+    text-align : center ;
+}
+
+.form-signin {
+    ancho máximo : 330 px ;
+    relleno : 15 px ;
+    margen : 0  auto ;
+}
+
+.form-  signin .form-signin-head , .form-signin {
+    margen inferior : 10 px ;
+}
+
+.form-signin {
+    fuente-peso : normal ;
+}
+
+.form-signin  .form-control {
+    posición : relativa ;
+    tamaño de letra : 16 px ;
+    altura : auto ;
+    relleno : 10 px ;
+    -webkit-box-dimensionamiento : cuadro de borde ;
+    Tamaño de caja de borde : cuadro de borde ;
+    caja de tamaño : frontera-box ;
+}
+
+ entrada .form-signin {
+    ancho : 320 px ;
+    margen inferior : 10 px ;
+    radio del borde : 4 px ;
+}
+
+.account-pared {
+    margen superior : 20 px ;
+    relleno : 40 px  0 px  20 px  0 px ;
+    color de fondo : # f7f7f7 ;
+    -moz-box-shadow : 0 px  2 px  2 px  rgba ( 0 , 0 , 0 , 0.3 );
+    -webkit-box-shadow : 0 px  2 px  2 px  rgba ( 0 , 0 , 0 , 0.3 );
+    caja-sombra : 0 px  2 px  2 px  rgba ( 0 , 0 , 0 , 0.3 );
+}
+
+.profile-img {
+    ancho : 96 px ;
+    altura : 96 px ;
+    margen : 0  auto  10 px ;
+    pantalla : bloque ;
+    - radio-borde-frontera : 50 % ;
+    -webkit-border-radius : 50 % ;
+    radio del borde : 50 % ;
+}
+
+ botón .form-signin {
+    pantalla : bloque ;
+    ancho : 100 % ;
+    peso de la fuente : 400 ;
+    text-align : center ;
+    color : #fff ;
+    color de fondo : # 337ab7 ;
+    color de borde : # 2e6da4 ;
+    relleno : 10 px  16 px ;
+    tamaño de letra : 18 px ;
+    línea de altura : 1.3333333 ;
+    radio del borde : 6 px ;
+    borde : 1 px  sólido  transparente ;
+}
+
+.new-account {
+    text-align : center ;
+    pantalla : bloque ;
+    margen superior : 10 px ;
+    texto-decoración : ninguno ;
+    color : # 337ab7 ;
+}
+
+.login-text {
+    color : # 555 ;
+    tamaño de letra : 18 px ;
+    peso de la fuente : 400 ;
+    pantalla : bloque ;
+}
+
+.título-imagen {
+    posición : relativa ;
+    margen : 0  auto ;
+}
